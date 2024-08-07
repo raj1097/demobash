@@ -1,0 +1,33 @@
+Manual Testing
+
+Proficient in Software Development Life Cycle (SDLC) and Software Test Life Cycle (STLC), demonstrating understanding of various models and methodologies.
+Skilled in executing all phases of the software testing process, including planning, design, execution, and closure.
+Experienced in regression testing to uphold quality standards and ensure software builds meet requirements.
+Capable of generating test scenarios, writing test cases, and gathering test data to support comprehensive testing.
+Familiar with defect life cycle management and adept at reporting defects using tools such as JIRA, MANTIS, and ALM.
+Demonstrated ability to facilitate peer review processes for test cases, resulting in minimized rework and improved quality assurance.
+Familiar with the Scrum Process within Agile Methodology.
+
+
+Good knowledge on Client Server Architecture.
+Knowledge on http request and http response.
+Basic knowledge on JSON and XML.
+Knowledge on Postman - API testing tool.
+Better understanding of SOAP & REST web service.
+Basic Knowledge on Swagger Document.
+
+
+
+
+
+Proficient in Client-Server Architecture.
+Skilled in HTTP request and response handling.
+Familiar with JSON and XML basics.
+Experienced with Postman for API testing.
+Strong grasp of SOAP & REST web services.
+Familiar with Swagger Documentation.
+
+
+Thorough grasp of Abstraction and Interface concepts.
+
+
